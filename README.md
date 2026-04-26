@@ -29,3 +29,10 @@ Resultado: O modelo STL+Naive foi o mais adequado, apresentando o menor erro (MA
 Linguagem: R.Bibliotecas: forecast, mgcv, ggplot2, tseries, entre outras.
 
 Testes Estatísticos: Ljung-Box (independência) e Shapiro-Wilk (normalidade) para diagnóstico de resíduos.
+
+📂 Visualização Completa
+Para uma experiência detalhada com gráficos interativos e todas as interpretações estatísticas, acesse os arquivos finais:
+
+📊 Relatório Interativo (HTML): https://driannymamedio.github.io/Previs-o-do-n-mero-de-servidores-da-Secret-ria-da-Educa-o---2026/Relatório.html
+
+📄 Relatório em PDF: https://driannymamedio.github.io/Previs-o-do-n-mero-de-servidores-da-Secret-ria-da-Educa-o---2026/Série Temporal-Pref.Uberlândia.pdf
