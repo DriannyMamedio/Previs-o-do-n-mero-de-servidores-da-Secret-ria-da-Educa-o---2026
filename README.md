@@ -1,6 +1,6 @@
 # Previsao do Numero de Servidores da Secretaria de Educao - 2026
 
-Análise de Série Temporal: Servidores da Educação (Uberlândia/MG)
+**Análise de Série Temporal: Servidores da Educação (Uberlândia/MG)**
 
 Este projeto realiza o estudo estatístico e a previsão do número de servidores da Secretaria de Educação de Uberlândia utilizando dados abertos da prefeitura (período de 2021 a 2025). O objetivo principal é fornecer previsões para os próximos 12 meses.
 
@@ -8,7 +8,7 @@ Este projeto realiza o estudo estatístico e a previsão do número de servidore
 <img width="576" height="301" alt="SERIE_ORIGINAL" src="https://github.com/user-attachments/assets/19d5096a-80ac-414d-8fd1-fc8155ef42d4" />
 
 
-🚀 Destaques Técnicos
+🚀 **Destaques Técnicos**
 
 Análise Exploratória: Identificação de tendência de crescimento e forte sazonalidade, com quedas acentuadas em janeiro devido à dinâmica contratual do setor.
 
@@ -24,15 +24,16 @@ Resultado: O modelo STL+Naive foi o mais adequado, apresentando o menor erro (MA
 <img width="576" height="301" alt="PREVISAO" src="https://github.com/user-attachments/assets/dcc9b04f-de64-420b-8145-fa52b88bbc02" />
 
 
-🛠️ Ferramentas Utilizadas
+🛠️ **Ferramentas Utilizadas**
 
 Linguagem: R.Bibliotecas: forecast, mgcv, ggplot2, tseries, entre outras.
 
 Testes Estatísticos: Ljung-Box (independência) e Shapiro-Wilk (normalidade) para diagnóstico de resíduos.
 
-📂 Visualização Completa
+📂 **Visualização Completa**
+
 Para uma experiência detalhada com gráficos interativos e todas as interpretações estatísticas, acesse os arquivos finais:
 
-📊 Relatório Interativo (HTML): https://driannymamedio.github.io/Previs-o-do-n-mero-de-servidores-da-Secret-ria-da-Educa-o---2026/Relatório.html
+📊 [Relatório em HTML](https://driannymamedio.github.io/Previs-o-do-n-mero-de-servidores-da-Secret-ria-da-Educa-o---2026/Relatório.html)
 
-📄 Relatório em PDF: https://driannymamedio.github.io/Previs-o-do-n-mero-de-servidores-da-Secret-ria-da-Educa-o---2026/Série Temporal-Pref.Uberlândia.pdf
+📄 [Relatório em PDF](https://driannymamedio.github.io/Previs-o-do-n-mero-de-servidores-da-Secret-ria-da-Educa-o---2026/S%C3%A9rie%20Temporal-Pref.Uberlandia.pdf)
