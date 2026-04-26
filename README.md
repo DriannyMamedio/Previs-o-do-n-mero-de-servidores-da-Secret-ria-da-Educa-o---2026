@@ -2,7 +2,7 @@
 
 Análise de Série Temporal: Servidores da Educação (Uberlândia/MG)
 
-Este projeto realiza o estudo estatístico e a previsão do número de servidores da Secretaria de Educação de Uberlândia utilizando dados abertos da prefeitura (período de 2021 a 2025). O objetivo principal é fornecer previsões para os próximos 12 meses para auxiliar no planejamento de políticas públicas e gestão de recursos.
+Este projeto realiza o estudo estatístico e a previsão do número de servidores da Secretaria de Educação de Uberlândia utilizando dados abertos da prefeitura (período de 2021 a 2025). O objetivo principal é fornecer previsões para os próximos 12 meses.
 
 
 <img width="576" height="301" alt="SERIE_ORIGINAL" src="https://github.com/user-attachments/assets/19d5096a-80ac-414d-8fd1-fc8155ef42d4" />
